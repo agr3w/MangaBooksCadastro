@@ -1,0 +1,19 @@
+.banner {
+    background-color: #007bff;
+    padding: 0.1rem;
+  }
+  
+  .banner-title {
+    color: #fff;
+    font-size: 42px;
+    text-align: center;
+  }
+
+  @media screen and (max-width: 460px) {
+
+    .banner-title {
+      font-size: 32px;
+    }
+    
+  }
+  
